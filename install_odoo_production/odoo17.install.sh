@@ -1,6 +1,5 @@
 #!/bin/bash
 # Copyright 2024 pronexo.com
-# !!! (WARNING!!!)
 # Hardware Requirements:
 #   * >=2GB RAM
 #   * >= 20GB SSD
