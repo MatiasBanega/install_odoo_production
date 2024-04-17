@@ -31,7 +31,7 @@
 	'depends': ['base'],
 	'auto_install': False,
 	'installable': True,
-	'price': 25,
+	'price': 30,
     'currency': 'USD'
        
 }
