@@ -104,7 +104,7 @@ sudo apt-get -y install gcc python3-dev libxml2-dev libxslt1-dev \
  libevent-dev libsasl2-dev libldap2-dev libpq-dev \
  libpng-dev libjpeg-dev xfonts-base xfonts-75dpi
 
-sudo apt-get -y install python3 python3-pip python3-setuptools htop zip unzip python3-lxml python3-vatnumber
+sudo apt-get -y install python3 python3-pip python3-setuptools htop zip unzip python3-lxml
 sudo pip3 install virtualenv
 
 # FIX wkhtml* dependencie Ubuntu Server 20.04.3 LTS
